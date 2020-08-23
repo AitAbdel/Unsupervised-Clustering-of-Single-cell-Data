@@ -1,0 +1,6 @@
+method,preproc,dim_red,use_dims_input,clust_tech,clust
+CIDR,none,internal,TRUE/internal,fixed,set/estimate
+RaceID3,method_specific,PCA,TRUE/internal,k-means/hclust,set/estimate
+SC3,none/method_specific,internal,internal,fixed,set/estimate
+Seurat,method_specific,PCA,TRUE/internal,fixed,estimate
+Linnorm,none/method_specific,tSNE/PCA,TRUE/internal,fixed,set/estimate

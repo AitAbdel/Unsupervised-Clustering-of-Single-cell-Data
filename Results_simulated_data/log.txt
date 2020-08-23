@@ -1,0 +1,438 @@
+[1] "Running...CIDR_none_internal_TRUE_3_fixed_set_4on simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+[1] "Running...CIDR_none_internal_TRUE_3_fixed_estimate_NAon simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+[1] "Running...CIDR_none_internal_internal_NA_fixed_set_4on simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+[1] "Running...CIDR_none_internal_internal_NA_fixed_estimate_NAon simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+[1] "Running...RaceID3_method_specific_PCA_TRUE_3_k-means_set_4on simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+boot 1 
+boot 2 
+boot 3 
+boot 4 
+boot 5 
+boot 6 
+boot 7 
+boot 8 
+boot 9 
+boot 10 
+boot 11 
+boot 12 
+boot 13 
+boot 14 
+boot 15 
+boot 16 
+boot 17 
+boot 18 
+boot 19 
+boot 20 
+boot 21 
+boot 22 
+boot 23 
+boot 24 
+boot 25 
+boot 26 
+boot 27 
+boot 28 
+boot 29 
+boot 30 
+boot 31 
+boot 32 
+boot 33 
+boot 34 
+boot 35 
+boot 36 
+boot 37 
+boot 38 
+boot 39 
+boot 40 
+boot 41 
+boot 42 
+boot 43 
+boot 44 
+boot 45 
+boot 46 
+boot 47 
+boot 48 
+boot 49 
+boot 50 
+[1] "Running...RaceID3_method_specific_PCA_TRUE_3_k-means_estimate_NAon simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+Clustering k = 1,2,..., K.max (= 30): .. 
+k = 1 k = 2 k = 3 k = 4 k = 5 k = 6 k = 7 k = 8 k = 9 k = 10 k = 11 k = 12 k = 13 k = 14 k = 15 k = 16 k = 17 k = 18 k = 19 k = 20 k = 21 k = 22 k = 23 k = 24 k = 25 k = 26 k = 27 k = 28 k = 29 k = 30 
+done.
+boot 1 
+boot 2 
+boot 3 
+boot 4 
+boot 5 
+boot 6 
+boot 7 
+boot 8 
+boot 9 
+boot 10 
+boot 11 
+boot 12 
+boot 13 
+boot 14 
+boot 15 
+boot 16 
+boot 17 
+boot 18 
+boot 19 
+boot 20 
+boot 21 
+boot 22 
+boot 23 
+boot 24 
+boot 25 
+boot 26 
+boot 27 
+boot 28 
+boot 29 
+boot 30 
+boot 31 
+boot 32 
+boot 33 
+boot 34 
+boot 35 
+boot 36 
+boot 37 
+boot 38 
+boot 39 
+boot 40 
+boot 41 
+boot 42 
+boot 43 
+boot 44 
+boot 45 
+boot 46 
+boot 47 
+boot 48 
+boot 49 
+boot 50 
+[1] "Running...RaceID3_method_specific_PCA_TRUE_3_hclust_set_4on simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+boot 1 
+boot 2 
+boot 3 
+boot 4 
+boot 5 
+boot 6 
+boot 7 
+boot 8 
+boot 9 
+boot 10 
+boot 11 
+boot 12 
+boot 13 
+boot 14 
+boot 15 
+boot 16 
+boot 17 
+boot 18 
+boot 19 
+boot 20 
+boot 21 
+boot 22 
+boot 23 
+boot 24 
+boot 25 
+boot 26 
+boot 27 
+boot 28 
+boot 29 
+boot 30 
+boot 31 
+boot 32 
+boot 33 
+boot 34 
+boot 35 
+boot 36 
+boot 37 
+boot 38 
+boot 39 
+boot 40 
+boot 41 
+boot 42 
+boot 43 
+boot 44 
+boot 45 
+boot 46 
+boot 47 
+boot 48 
+boot 49 
+boot 50 
+[1] "Running...RaceID3_method_specific_PCA_TRUE_3_hclust_estimate_NAon simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+Clustering k = 1,2,..., K.max (= 30): .. 
+k = 1 k = 2 k = 3 k = 4 k = 5 k = 6 k = 7 k = 8 k = 9 k = 10 k = 11 k = 12 k = 13 k = 14 k = 15 k = 16 k = 17 k = 18 k = 19 k = 20 k = 21 k = 22 k = 23 k = 24 k = 25 k = 26 k = 27 k = 28 k = 29 k = 30 
+done.
+boot 1 
+boot 2 
+boot 3 
+boot 4 
+boot 5 
+boot 6 
+boot 7 
+boot 8 
+boot 9 
+boot 10 
+boot 11 
+boot 12 
+boot 13 
+boot 14 
+boot 15 
+boot 16 
+boot 17 
+boot 18 
+boot 19 
+boot 20 
+boot 21 
+boot 22 
+boot 23 
+boot 24 
+boot 25 
+boot 26 
+boot 27 
+boot 28 
+boot 29 
+boot 30 
+boot 31 
+boot 32 
+boot 33 
+boot 34 
+boot 35 
+boot 36 
+boot 37 
+boot 38 
+boot 39 
+boot 40 
+boot 41 
+boot 42 
+boot 43 
+boot 44 
+boot 45 
+boot 46 
+boot 47 
+boot 48 
+boot 49 
+boot 50 
+[1] "Running...RaceID3_method_specific_PCA_internal_NA_k-means_set_4on simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+boot 1 
+boot 2 
+boot 3 
+boot 4 
+boot 5 
+boot 6 
+boot 7 
+boot 8 
+boot 9 
+boot 10 
+boot 11 
+boot 12 
+boot 13 
+boot 14 
+boot 15 
+boot 16 
+boot 17 
+boot 18 
+boot 19 
+boot 20 
+boot 21 
+boot 22 
+boot 23 
+boot 24 
+boot 25 
+boot 26 
+boot 27 
+boot 28 
+boot 29 
+boot 30 
+boot 31 
+boot 32 
+boot 33 
+boot 34 
+boot 35 
+boot 36 
+boot 37 
+boot 38 
+boot 39 
+boot 40 
+boot 41 
+boot 42 
+boot 43 
+boot 44 
+boot 45 
+boot 46 
+boot 47 
+boot 48 
+boot 49 
+boot 50 
+[1] "Running...RaceID3_method_specific_PCA_internal_NA_k-means_estimate_NAon simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+Clustering k = 1,2,..., K.max (= 30): .. 
+k = 1 k = 2 k = 3 k = 4 k = 5 k = 6 k = 7 k = 8 k = 9 k = 10 k = 11 k = 12 k = 13 k = 14 k = 15 k = 16 k = 17 k = 18 k = 19 k = 20 k = 21 k = 22 k = 23 k = 24 k = 25 k = 26 k = 27 k = 28 k = 29 k = 30 
+done.
+boot 1 
+boot 2 
+boot 3 
+boot 4 
+boot 5 
+boot 6 
+boot 7 
+boot 8 
+boot 9 
+boot 10 
+boot 11 
+boot 12 
+boot 13 
+boot 14 
+boot 15 
+boot 16 
+boot 17 
+boot 18 
+boot 19 
+boot 20 
+boot 21 
+boot 22 
+boot 23 
+boot 24 
+boot 25 
+boot 26 
+boot 27 
+boot 28 
+boot 29 
+boot 30 
+boot 31 
+boot 32 
+boot 33 
+boot 34 
+boot 35 
+boot 36 
+boot 37 
+boot 38 
+boot 39 
+boot 40 
+boot 41 
+boot 42 
+boot 43 
+boot 44 
+boot 45 
+boot 46 
+boot 47 
+boot 48 
+boot 49 
+boot 50 
+[1] "Running...RaceID3_method_specific_PCA_internal_NA_hclust_set_4on simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+boot 1 
+boot 2 
+boot 3 
+boot 4 
+boot 5 
+boot 6 
+boot 7 
+boot 8 
+boot 9 
+boot 10 
+boot 11 
+boot 12 
+boot 13 
+boot 14 
+boot 15 
+boot 16 
+boot 17 
+boot 18 
+boot 19 
+boot 20 
+boot 21 
+boot 22 
+boot 23 
+boot 24 
+boot 25 
+boot 26 
+boot 27 
+boot 28 
+boot 29 
+boot 30 
+boot 31 
+boot 32 
+boot 33 
+boot 34 
+boot 35 
+boot 36 
+boot 37 
+boot 38 
+boot 39 
+boot 40 
+boot 41 
+boot 42 
+boot 43 
+boot 44 
+boot 45 
+boot 46 
+boot 47 
+boot 48 
+boot 49 
+boot 50 
+[1] "Running...RaceID3_method_specific_PCA_internal_NA_hclust_estimate_NAon simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+Clustering k = 1,2,..., K.max (= 30): .. 
+k = 1 k = 2 k = 3 k = 4 k = 5 k = 6 k = 7 k = 8 k = 9 k = 10 k = 11 k = 12 k = 13 k = 14 k = 15 k = 16 k = 17 k = 18 k = 19 k = 20 k = 21 k = 22 k = 23 k = 24 k = 25 k = 26 k = 27 k = 28 k = 29 k = 30 
+done.
+boot 1 
+boot 2 
+boot 3 
+boot 4 
+boot 5 
+boot 6 
+boot 7 
+boot 8 
+boot 9 
+boot 10 
+boot 11 
+boot 12 
+boot 13 
+boot 14 
+boot 15 
+boot 16 
+boot 17 
+boot 18 
+boot 19 
+boot 20 
+boot 21 
+boot 22 
+boot 23 
+boot 24 
+boot 25 
+boot 26 
+boot 27 
+boot 28 
+boot 29 
+boot 30 
+boot 31 
+boot 32 
+boot 33 
+boot 34 
+boot 35 
+boot 36 
+boot 37 
+boot 38 
+boot 39 
+boot 40 
+boot 41 
+boot 42 
+boot 43 
+boot 44 
+boot 45 
+boot 46 
+boot 47 
+boot 48 
+boot 49 
+boot 50 
+[1] "Running...SC3_none_internal_internal_NA_fixed_set_4on simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+
+[1] "Running...SC3_none_internal_internal_NA_fixed_estimate_NAon simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+
+[1] "Running...SC3_method_specific_internal_internal_NA_fixed_set_4on simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+
+[1] "Running...SC3_method_specific_internal_internal_NA_fixed_estimate_NAon simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+
+[1] "Running...Seurat_method_specific_PCA_TRUE_3_fixed_estimate_NAon simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+Error in FetchData(object = object, vars = unique(x = expr.char[vars.use]), : None of the requested variables were found: 
+
+[1] "Running...Seurat_method_specific_PCA_internal_NA_fixed_estimate_NAon simulated_data/Category_3/sim_c1000_g1000_gr4_balanced_de0.5_drop6.Rdata"
+Error in FetchData(object = object, vars = unique(x = expr.char[vars.use]), : None of the requested variables were found: 
+
